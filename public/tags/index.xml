@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Neo-Iskra</title>
-    <link>http://iskra,money/tags/</link>
+    <link>https://iskra.money/tags/</link>
     <description>Recent content in Tags on Neo-Iskra</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://iskra,money/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://iskra.money/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
