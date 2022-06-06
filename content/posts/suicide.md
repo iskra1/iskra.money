@@ -5,7 +5,7 @@ date = 2022-03-05
 draft = false
 +++
 
-{{< figure src="lesuicide.jpg" width="500px" >}}
+{{< figure src="/ox-hugo/lesuicide.jpg" width="500px" >}}
 
 DISCLAIMER: The views expressed here do not represent Iskraism.
 
