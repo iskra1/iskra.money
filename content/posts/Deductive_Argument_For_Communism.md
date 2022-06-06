@@ -5,7 +5,9 @@ draft = false
 +++
 
 Premise 1: We ought to pursue states of human flourishing
+
 Premise 2: Communism would evoke a state of human flourishing
+
 Conclusion: Therefore we should pursue Communism
 
 \\(A=A\\)
