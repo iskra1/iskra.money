@@ -1,0 +1,53 @@
++++
+title = "A Response to Suicidality"
+author = ["Balls"]
+date = 2022-03-06
+draft = false
++++
+
+It has been recently propositioned to me that suicide is a radically individualist action. I will state
+my position quite briefly and succinctly: this concept is one imagined by slow mind, perhaps
+even retarded in its development, and reflects a fundamental deficit in the character of its
+author.
+
+I will begin my response with the first excerpt of interest:
+
+> Suicide is a rare form of true individualism and is a real rejection of the forced seperation of
+> one from oneself. The person who commits suicide truly asserts themself over their
+> situation… and makes their actions their own actions against the wishes of family, friends,
+> boss’s, teacher’s and others.
+
+I am unconvinced by the definition of “individualism” proposed here. To the author, it is not the
+exercisement of liberty, the existence of fundamental rights, or the prioritization of oneself over
+the whole? No. The “individualism” outlined here entails only disobeying others, without any
+elaboration or nuance. Suppose a society in which norms required the use of a toilet and
+sanitation for defecation. In this society, the author would in “radically exercising” his
+own individualism, not only embarrass himself but run contrary to his own obvious interests.
+Such absurdity is the only logical result from a definition of individualism which does not
+consider the motivations (did the author even want to defecate on themselves?) or outcomes of
+actions; the only factor to be considered is whether an action faces widespread approval or
+disapproval. Individualism would be nothing more than a snide contrarianism.
+But the following lines is where the author truly overplays their hand:
+
+> In the little time the individual has to himself for many it is dedicated to useless consumption
+> of media… None of this contributes to the development of the individual into something
+> greater or otherwise develops them.
+
+Here, it is revealed that all the posturing of “individualism” and the brave “assertion” of suicide is
+merely a facade. In truth, the author accidentally admits that they have no conception of the use
+of one’s time beyond mindless consumption. Rational observers might point out the many ways
+in which the author could develop themselves physically and mentally -- toning their physique,
+seeking opportunities of higher education, discovering a new passion, starting a family -- but
+such is unthinkable, the idea that others might dedicate their time to pursuits with meaning --
+unbelievable! Were this person given the ability they so desire, to spend all of their time at their
+discretion, they would still engage in the same cycles and routines of mindless consumption.
+For someone so obviously attempting to be contrarian, this ironically reveals complete and utter conformity. And thus we arrive at the crux of this perspective: to the author, ending one's existence is a more feasible reality than self improvement or discipline.
+
+I will conclude in a very blunt manner: it is no coincidence that such a caricature would imagine
+suicide as a victory. Because the suicidal man is not one of strength, but one of weakness. A
+man who lacks the minimal creativity to imagine a better future for themself and the motivation
+to pursue any act of self improvement in attainment of such. Pleasure, to such a man, is not
+happiness, but the lack of pain, because such a life knows no such positives. And I suppose it is
+inevitable that one who would chase immediate, hedonistic pleasure so thoroughly in life would eventually come to delude themeselves into seeing the finality of such laziness as death.
+
+But to the rest of us, suicide remains the ultimate act of failure.

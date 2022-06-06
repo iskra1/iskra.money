@@ -1,0 +1,16 @@
++++
+title = "Fetishism and Relations of Domination and Servitude"
+author = ["Sam"]
+date = 2021-12-24
+draft = false
++++
+
+> "[…] one man is king only because other men stand in relation of subjects to him. They, on the contrary imagine that they are subjects because he is king. (Capital Vol 1)"
+
+The commodity fetish seperates capitalism from other modes of production in so far as social relations are for the first time mediated through things, rather than people. In prior modes of production and governance such as autocracy, rulership was mandated through the divine right of kings - the myth of a blessing from a higher power. A kings mandate is only valid in so far as the people uphold it.
+
+Commodity circulation requires that both parties are able to “freely” meet on a market - each motivated by their own self interest. The particular content of the commodity exchange is irrelevant, and that both parties must be able to “freely” meet is just a precondition. The actual form is what is important, and it is through the relation between these commodities where belief and ideology actually operate.
+
+For Zizek, the fact that the commodity fetish allows for cynical distance on the part of both the capitalist and the consumer is what makes it so effective. It is not that just there is a false consciousness operating at the level of the commodity exchange, it is actually precisely because the agents are aware of what they are doing - and are able to seperate themselves from it that they can be effective. A truly effective banker is able to accept very well that money is just a social symbol that we ourselves give meaning and so forth but nonetheless by allowing himself to recognise this fact he can do his job most effectively, free from guilt.
+
+What about the counterargument? Is this not the same for relations of domination and servitude? It is certainly true that cynical ideology operated before capitalism, hence Lacan’s point that “The madman is not only a beggar who thinks he is a king, but also a king who thinks he is a king.”. But what really ought to be emphasised here is the material relations behind the layer of ideology (this is not to say that ideology is just false consciousness). The commodity fetish is reified - social behaviour manifests first through the commodity form and relations between things become a form of social domination in a way differing to traditional lordship and bondage. The fact that the commodity form functions regardless of what is said indicates that there is an active element to belief. Belief is constituted through social behaviour, the cynical phantasmic element of ideology cannot function without the real of the exchange.

@@ -1,0 +1,20 @@
++++
+title = "On Iskraism's Use of A=A"
+author = ["Sam"]
+date = 2022-02-21
+draft = false
++++
+
+As Jacob has rightly pointed out, when Iskraism is presented with the choice between lalangue and matheme we answer "both is best". There is no clearer example of this than our ironic usage of \\(A=A\\).
+
+If someone asks for the meaning of a word, how do we answer? \\(A=A\\)
+
+Our usage of \\(A=A\\) is an example of lalangue par exellence, we can never say exactly what we mean and so instead we choose to say nothing at all because to say \\(A=A\\) is both blatantly tautological and devoid of informative content (as Hegel says "cognition naively reduced to vacuity"). However, at the same time when we say \\(A=A\\) we also mean something very serious. It is in this sense that is also a matheme, an attempt to transmit.
+
+I will be bold and say that within this formula our entire worldview is implicit.
+
+As readers of Hegel we know that the Absolute is the identity of identity and non-identity -- identity is always involved in that which negates itself&nbsp;[^fn:1]. In order for \\(A\\) to have a determinate identity there must be a not-\\(A\\) (a \\(B\\), a \\(C\\) etc.) which is opposed to it. In writing the formula \\(A=A\\) there is now a second \\(A\\) which has a moment of othering to the first -- allowing \\(A\\) to refer to itself reflexively. This is what leads Hegel to criticise Schelling, because for him Schelling's notion of the Absolute cannot think identity and difference. He sees it as an empty schema from which this moment of self-othering is missing hence "all is one" and "the night in which all cows are black".
+
+This way of thinking about identity is key to the entirety of Hegel's system, I would go as far as saying it is the dialectical method itself. So then why \\(A=A\\), rather than \\(A = \neg A\\) or \\(A \neq A\\)? We choose to say something which is misleading because we want to demonstrate that language itself is misleading, to demonstrate its circularity.
+
+[^fn:1]: On the other hand, as readers of Badiou we know that such a formula follows from the axiom of extensionality contrary to "Law of Identity" dogma which takes it as something innate to cognition.

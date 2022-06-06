@@ -1,0 +1,66 @@
+#+TITLE: You Cannot See Volume.
+#+AUTHOR: Alex
+
+#+HUGO_BASE_DIR: ../
+#+DATE: 2022-02-22
+* The proposition
+It is proposed that vision can only directly percieve in 2d. The author is not proposing that humans cannot think in 3d, this would be prepostrous. The basis of this proposition is that vision constrains a 3rd variable(depth) as a function of two others(direction Euler angle), which in an $R^3$ space would result in a $R^2$ space, or a surface. Of course given that by virtue of movement, humans can percieve volume. This is simply done by seeing the inequality of multiple surfaces. This paper should be finished now, no one should dispute the validity of this hypothesis because it is obvious. However, Jacob Little has kidnapped my family and therefore I must continue with examples of how this works.
+
+* Assumptions made
+1. Human vision will be modelled as \(g(\alpha, \beta)\), where the angles \(\alpha\) and \(\beta\) are the horizontal and vertical components of eye angle. The function \(g(\alpha, \beta)\) is defined as the distance percieved by the eye by method of stereo vision. The author recognizes that this model is a simplification of human vision into 1 depth aware sensor rather than a stereo vision system, but this simplification does not alter the argument
+
+2. The subject in question does not move. Movement is how humans use perception of surfaces and their relation to those surfaces as a 3d understanding of reality. The author does not propose that humans cannot "truly understand 3d" because they have not done enough LSD yet.
+
+3. The subject is presumed to have seen these surfaces before, and therefore can understand their nature through their surface nature (/Oberflächennatur/).
+
+4. The author assumes that humans exist in a \(R^3\) space.
+
+* Methods
+As defined in the above section, \(g(\alpha, \beta)\) is defined against
+two angles. I will model a space in which the magnitude of either angle
+does not exceed \(\frac{\pi}{2}\). In my graphs, I will represent the
+angles on two axes because I cannot be assed to do it otherwise. The
+conversion from the pitch/yaw Euler Angle to a parametric curve will be
+as follows:
+
+$f(t) = \vec{r} + t$ <cos(\alpha)cos(\beta), sin(\alpha)cos(\beta), sin(\beta)>
+
+Therefore, to find the distance we must find the minimum t(if it exists)
+for which the resulting vector intersects with any surface. To do this
+and visualize the result, a shitty python script written by a 1st year
+university student who cannot even fix trivial bugs in a web service.
+* Examples
+** Sphere
+In this instance, we take \(\vec{r}_0 = <-5,0,0>\). We also take the
+sphere to be \(x^2 + y^2 + z^2 = 1\). This gives the following equation:
+
+\[((t cos(\alpha)cos(\beta) - 5)^2 + (t sin(\alpha)cos(\beta))^2 + sin^2(\beta))\]
+
+\[25 - 10tcos(\alpha)cos(\beta) + t^2 cos^2(\alpha)cos^2(\beta) + t^2 sin^2(\alpha)cos^2(\beta) + t^2 sin^2(\beta) -1 = 0\]
+
+This is a quadratic equation that is trivial to solve given a computer
+program. And that is what the author will do!
+
+Below is a chart of what an observer would see looking towards the
+origin from \((-5,0,0)\).
+#+CAPTION:A sphere depth map. The X and Y axes are in radians. The scale is adjusted so that the yellow region describes the places where the observer would be unable to see the depth because the vectors do not intersect the sphere. Otherwise, the color indicates vector length to intersection with the sphere. A stationary observer would be able to understand its nature from the surface solely in the scenario that they have already seen spheres before! Otherwise, they will only be aware of slightly less than half of the sphere's total surface.
+#+ATTR_HTML: align center
+[[file:Figure_1.png]]
+** Plane
+This is even simpler in comparison to the sphere. The plane we will be
+analyzing is the \(x=0\) plane. For this we simply solve
+\(t cos(\alpha)cos(\beta) - 5 = 0\) for t to get
+\(t = \frac{5}{cos(\alpha)cos(\beta)}\). We then examine the depth map:
+
+
+#+CAPTION:A depth map of a flat plane. The observer will understand its planar nature, but for example will not know what is behind it, or its depth. For this, the observer would have to move and get the difference of multiple surfaces.
+#+ATTR_HTML: align center
+[[file:Figure_2.png]]
+
+* Conclusion
+In conclusion, the author is correct. This was never in dispute but I
+want to see my family again, Jacob. Those who dispute this may comment
+but they will be incorrect and may cope and relish in their folly.
+
+Fuck off Jacob you're not the real Iskra leader I hate you I hope you
+choke in your sleep i'm gonna put drain cleaner in your coffee tommorow.

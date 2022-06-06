@@ -1,0 +1,67 @@
++++
+title = "Political Struggles in the British Isles"
+author = ["Nathan"]
+date = 2022-02-06
+draft = false
++++
+
+&gt;be me <br />
+&gt;16:00 wake up in my flat above georgian era pub  <br />
+&gt;16:03 go downstairs for a drink <br />
+&gt;ask The Major (my landlord, bartender and employer) why the pub is so quiet <br />
+&gt;he informs me that the pub has been sold <br />
+&gt;the doorway implodes <br />
+&gt;we are immediately hit by an enormous wrecking ball operated by a drunk polish man <br />
+&gt;climb out of the rubble  <br />
+&gt;first time outside the pub for seven years <br />
+&gt;notice a sign put up by a chinese development company <br />
+&gt;"we are turning your pub into an ugly block of apartments that looks like a penis" <br />
+&gt;16:07 spend my last fiver on half a sandwich from pret <br />
+&gt;decide to kill myself <br />
+&gt;will jump off the tower of london <br />
+&gt;tallest building in the UK, has 3 floors <br />
+&gt;pass 9 more prets on the way to the station <br />
+&gt;16:10 arrive at station <br />
+&gt;its closed <br />
+&gt;16:11 shoved at gunpoint onto rail replacement bus by BTP officer <br />
+&gt;02:13 rail replacement bus arrives at the tower  <br />
+&gt;the apartment complex back home is now finished and owned by saudi property investors <br />
+&gt;02:16 i join the queue for the British Suicide Platform <br />
+&gt;10:30 halfway through the queue <br />
+&gt;ancient yeoman guard asks for my NHS covid QR code <br />
+&gt;explain to him that its buried under a giant penis <br />
+&gt;he immediately sentences me to death <br />
+&gt;i smile as i now get to skip the queue and have someone else throw me off the tower <br />
+&gt;i fall only 2 floors worth of height <br />
+&gt;fall broken by enormous pile of bodies <br />
+&gt;severely injured <br />
+&gt;10:42 go to A&amp;E <br />
+&gt;04:17 leave A&amp;E after being told by unpaid 17 year old indian practitioner to walk it off <br />
+&gt;consider getting a job <br />
+&gt;grumble to myself about having no skills or talents and being lazy <br />
+&gt;street surveillance microphones hear me <br />
+&gt;immediately stuffed into a van with a bag on my head <br />
+&gt;the bag is taken off <br />
+&gt;sadiq khan is standing in front of me <br />
+&gt;he offers me a job at TfL <br />
+&gt;i object to this, saying that no matter how much he pays me i wont work for him <br />
+&gt;i realise my error but it is too late <br />
+&gt;"then you're already basically a TfL employee" <br />
+&gt;my fate is sealed <br />
+&gt;04:25 i get out of the seat i was put in <br />
+&gt;sadiq sees this and decides im overqualified to be a tube driver <br />
+&gt;be made head of TfL <br />
+&gt;be personally given TfL's debt <br />
+&gt;not able or legally allowed to die until i pay it off <br />
+&gt;ask sadiq why TfL is so poor <br />
+&gt;"its cos of the elizabeth line" <br />
+&gt;"also we keep missing our government quota for suicide bodies on the tracks because of the strikes and closures" <br />
+&gt;he asks if i want to stop spending 1 trillion pounds weekly on building the elizabeth line <br />
+&gt;decide to continue building the line, but have it serve as a mass grave <br />
+&gt;05:01 move the pile from the tower of london to the elizabeth line tunnels <br />
+&gt;hit the quota by technicality <br />
+&gt;immediately quit my job <br />
+&gt;05:16 i jump off the tower of london <br />
+&gt;07:48 public rail stations across the country build statues in my memory for fixing TfL <br />
+&gt;09:20 rishi sunak seizes power in a coup <br />
+&gt;brings back franchising and tears down my statues in deborisization <br />
