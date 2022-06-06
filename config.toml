@@ -1,4 +1,4 @@
-baseURL = 'http://iskra,money/'
+baseURL = 'https://iskra.money/'
 languageCode = 'en-us'
 title = 'Neo-Iskra'
 theme = "HugoTeX"
