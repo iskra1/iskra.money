@@ -1,12 +1,12 @@
 [submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+    path = themes/ananke
+    url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "themes/hugo-tufte"]
-	path = themes/hugo-tufte
-	url = https://github.com/slashformotion/hugo-tufte.git
+    path = themes/hugo-tufte
+    url = https://github.com/slashformotion/hugo-tufte.git
 [submodule "themes/HugoTeX"]
-	path = themes/HugoTeX
-	url = https://github.com/HelloRusk/HugoTeX.git
+    path = themes/HugoTeX
+    url = https://github.com/var-nothing/HugoTeX
 [submodule "themes/hugo-theme-texify"]
-	path = themes/hugo-theme-texify
-	url = https://github.com/queensferryme/hugo-theme-texify.git
+    path = themes/hugo-theme-texify
+    url = https://github.com/queensferryme/hugo-theme-texify.git
