@@ -1,8 +1,9 @@
-#+TITLE: It's What Happened Around Us
-#+AUTHOR: Wasps
-
-#+HUGO_BASE_DIR: ../
-#+DATE: 2022-06-17
++++
+title = "It's What Happened Around Us"
+author = ["Wasps"]
+date = 2022-06-17
+draft = false
++++
 
 There’s hardly a need for an introduction paragraph. I could post some stock art of a pirate flag and you’d know what spurred this, assuming you haven’t just woken up from a years long coma and resisted the overpowering and righteous urge to hurl yourself through a window. The circus surrounding Johnny “Rape Her Corpse to Make Sure She’s Dead” Depp’s defamation trial aganist Amber Heard has been like asphixiation by helium, its certainly a bad thing no one seems to be handling well but a few people made funny noises because of it so most of us seem fine with it.
 
@@ -12,9 +13,7 @@ I’m not particularly interested in going into the media side of things however
 
 My goal is not to paint Heard as a feminist icon or Joan of Arc, I’ll point to Fisher-Quann’s piece again with this excerpt;
 
-#+BEGIN_QUOTE
-... I find no value in flattening the experiences or motivations of either party in this case to fit an easily consumable Marvel movie plotline. I’m not interested in buying into the dominant narrative that treats this trial like a soap opera, with characters that exist to be rooted for and against. Much of the popular discourse acts as though there are only two feasible options when it comes to Heard’s (and, really, any woman’s) innocence: either she’s an evil, psychotic manipulator who’s guilty on all counts, or she must have to be a perfectly innocent angel who’s never done anything wrong. I don’t think Amber Heard is a feminist hero, and I’m not saying this to make my support of her more palatable or to perform impartiality — I’m saying it because she shouldn’t have to be.
-#+END_QUOTE
+> ... I find no value in flattening the experiences or motivations of either party in this case to fit an easily consumable Marvel movie plotline. I’m not interested in buying into the dominant narrative that treats this trial like a soap opera, with characters that exist to be rooted for and against. Much of the popular discourse acts as though there are only two feasible options when it comes to Heard’s (and, really, any woman’s) innocence: either she’s an evil, psychotic manipulator who’s guilty on all counts, or she must have to be a perfectly innocent angel who’s never done anything wrong. I don’t think Amber Heard is a feminist hero, and I’m not saying this to make my support of her more palatable or to perform impartiality — I’m saying it because she shouldn’t have to be.
 
 Only men get to be complicated in the public eye. We can go round and round on if the latest abortion clinic bomber was really a bad guy or just misunderstood and we can certainly have a sit down conversation on how at fault a man is for the rape of a young woman in a frat house, and you can make quite a killing with a morally grey retelling of Jerffry Dahmer’s crimes, but women will either be all or nothing.
 
@@ -26,6 +25,6 @@ In my stand up, I had a joke about the phrase “consent is sexy.” Essentially
 
 Freud’s Jokes and Their Relation to the Unconscious asserts that the enjoyment of humor comes from its relation to suppression of serious talk. In order for a joke to work you have to overcome any inhibitions around the topic of the humor and then allow themself to laugh at the humor derived from the topic. For example, if someone laughs at a rape joke you can fairly accurately infer their distaste for rape comes from a societal teaching and not any personal moral ground. Now with that in mind, look at the following:
 
-[[file:amberheardtweet.jpeg]]
+{{< figure src="/ox-hugo/amberheardtweet.jpeg" >}}
 
 Any laughs that could be had from this tweet hinge on the viewer finding the appearance of a woman reliving immense trauma for a televised audience to be hilariously bad acting, to view a tale of domestic abuse the way a group of friends would view Manos: The Hands of Fate. Now consider the fact that this tweet and many similar tweets, memes, and videos went viral because of how many people saw a woman recounting true horror and lost themselves giggling. A popular saying online is that you can’t force a meme, that you can’t make something a popular image or joke without it naturally gaining that statue. No one had to force the now meme status of Heard’s case, we had already accepted that a woman’s trauma was entertainment first and tragedy second.
