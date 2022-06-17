@@ -8,7 +8,7 @@ footnoteReturnLinkContents = "^"
 
 [author]
   name = "Iskra"
-  abstract = "An excercise in transmission. Iskraism itself is a word without meaning. The Iskraist does not exist. The only thing of which Iskra can be guilty of is having given ground in the First World Protracted People's War. The old Iskraism is dying, and the new Iskraism struggles to be born: now is the time of monsters." 
+  abstract = "An exercise in transmission. Iskraism itself is a word without meaning. The Iskraist does not exist. The only thing of which Iskra can be guilty of is having given ground in the First World Protracted People's War. The old Iskraism is dying, and the new Iskraism struggles to be born: now is the time of monsters." 
 
 [markup.goldmark.renderer]
   unsafe = true
