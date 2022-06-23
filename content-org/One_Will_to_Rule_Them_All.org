@@ -1,0 +1,55 @@
+#+TITLE: One Will to Rule Them All
+#+DATE: 2022-06-20
+#+HUGO_BASE_DIR: ../
+#+AUTHOR:
+
+Nick Land, at least in the present day and time, is a controversial figure among philosophy to say the least. He has been totally disowned by his former academic institutions at the University of Warwick, and more recently the New Centre for Research and Practice (caused by unsavory comments regarding members of the Islamic faith in England). His reputation on the internet is slightly different, however. Mostly known as the "philosopher who fried his brain on meth", his philosophical work has for the most part seen most of its success within the past decade or so on the internet. His writings primarily tended to diffuse among bored philosophy students and high schoolers with a penchant for philosophy, however that trend has mostly died as of June 2022, along with his online prominence in certain spheres of the world wide web.
+
+While he is primarily associated with prominent French intellectuals of the mid to late 20th century such as Gilles Deleuze (and his associate, Felix Guttari), and Georges Bataille, along with German philosopher Immanuel Kant, his relationship with the "Anti-German German" of philosophy, Arthur Schopenhauer, is often overlooked. Schopenhauer's philosophy plays a large role in Land's philosophy, even if subtly. His philosophy, mostly published between 1813 to the 1850s, was widely influential in an albeit unorthodox way. Schopenhauer was a great influence to Leo Tolstoy when he wrote his magnum opus 'War and Peace'. Richard Wagner, the great composer and opera writer of Germany cited him as a major influence. However, Schopenhauer in his time largely failed to enter the "mainstream" of German philosophy, as the German Idealism of Hegel, Fichte, and Schelling proved in the end to be the far more popular philosophy of the early to mid-nineteenth century.
+
+Schopenhauer did manage to leave one lasting impact, however indirect: Freud's Death Drive.  The death drive (henceforth shortened as "DD") is in a sentence, the drive found in humans towards self-destruction for the sole purpose of self-destruction. The DD is mindless, irrational, and universal. Freud did not get this theory from Schopenhauer, yet upon examination it bears a striking resemblance to Schopenhauer's most famous concept, the Will. The Will is a metaphysical entity with the exact same description as the death drive. Furthermore, Schopenhauer discovered The Will through philosophical introspection, something that is arguably not far from Freud's psychoanalysis in a way. I will not go into a detailed explanation of what The Will is in relation to Schopenhauer in his philosophy, but I will leave this paragraph on the note that The Will is closer to some sort of intelligent (not conscious) being than anything else.
+
+As I depart a rudimentary conversation regarding Freud and Schopenhauer, I must now move further in the right direction of a timeline of the 20th Century. Now that a brief summary of Schopenhauer and Freud has been conducted, we have now partial context for Lands philosophy that is seen in Thirst For Annihilation and Fanged Noumena. However, there is one thinker that should be covered before we proceed to Land himself, that figure being Deleuze. I do not claim to be an expert on Deleuze, far from it, and my reading of him is somewhat limited. However limited one's understanding of him may be his philosophy found in Anti-Oedipus is invaluable to an understanding of Lands philosophy.
+
+The most crucial aspect of Deleuzian thought that one will encounter when engaging in this philosophy is that of deterritorialization. Deterritorialization is a kind of breaking down; a decoding; a movement towards destructuring. Large portions of Anti-Oedipus (AO) are dedicated to tracing its history from the dawn of primitive human society to the present state of developed capitalism in a way that is incredibly similar to Marx. Deleuze traces the history of decoding flows of desire, demonstrating that since the start of history, civilization has moved in the direction of deterritorialization, culminating in the birth of the great deterritorializing machine, capitalism. Capitalism in its infancy was an explosion of decoded flows of desire, a great leap in the direction of deterritorialization. Serfs were no longer bound to the land, property became exchangeable and capital had become volatile, no longer fixed as it was under the feudal system. As I go on with this exposition of Deleuzian theory, I do not wish to rehash Deleuze and Guatarri here, simply summarize for the reader to gain a necessary understanding of what Land draws from; if one wishes to learn more about Deleuzoguatarrian theory I highly suggest reading Anti-Oedipus for yourself.
+
+With the relevant concepts explained and elaborated upon, we can now venture into the depths of Landian philosophy, the more esoteric stuff. When reading about him online you'll often see a tendency of the word "cybernetics" thrown around. While cybernetics is really its own thing, Land creates an interesting synthesis and connection between elements of cybernetic theory and Deleuze. Land models the processes of territorialization as feedback loops; with the deconstructive process of deterritorialization serving as "positive feedback", as part of an overall cybernetic circuit that he deems history to be. Land seems to have been interested in how far capitalism could go, taking the words of Deleuze to heart :
+
+#+BEGIN_QUOTE
+But which is the revolutionary path? Is there one?—To withdraw from the world market,
+ as Samir Amin advises Third World countries to do, in a curious revival
+of the fascist "economic solution"? Or might it be to go in the opposite
+direction? To go still further, that is, in the movement of the market, of
+decoding and deterritorialization? For perhaps the flows are not yet
+deterritorialized enough, not decoded enough, from the viewpoint of a
+theory and a practice of a highly schizophrenic character. Not to
+withdraw from the process, but to go further, to "accelerate the process," as
+Nietzsche put it: in this matter, the truth is that we haven't seen anything yet.
+#+END_QUOTE
+
+Maybe Land is right on his theory of rapid and endless deterritorialization. The modeling of capitalism seems to be accurate at first glance anyways.
+
+
+With this sort of exposition finished, we can now return to the original subject of discussion, Schopenhauer's Will. An uninformed reader might ask himself how any of this is tied together, what does 19th century German philosophy have to do with Deleuzian schizoanalysis? To tie this up in a nice bow, I will make a rather bold claim: capitalism is Schopenhauer's Will. They are the exact same thing. Capitalism is a mature Will, its arguably highest form of expression. This would seem to align with some of Lands more kookier claims of "capitalism is an artificial intelligence from the future", and while I think that would be somewhat of an exaggeration, it clearly points that this is probably what Land actually believed at some time.
+
+The Will is far more than a psychological force. It is no mere metaphysical entity crafted through syllogism. Schopenhauer, for all his wisdom, could not have realized what he had discovered through the writings of Kant and the Cartesian philosophical method in 1818. If the Freud's death drive is said to be the same thing as Will, if A=A, this would seem to be aligned with what Land writes of. Destruction for the sake of destruction is what Freud deems the death drive; Land writes of production for the sake of production, a locked positive feedback loop. Like Marx's infamous turning of Hegels dialectic on its head in favor of materialism, a parallel occurs between Schopenhauer and Land. The Will is an undying force towards vital desires, developing and maturing towards the explosion of these unchained desires throughout history; historical deterritorialization.
+
+What is the end of the death drive: death, zero intensity.
+
+#+BEGIN_QUOTE
+You don’t reach the BwO, and its plane of consistency, by wildly destratifying.
+The worst that can happen is if you throw the strata into demented or suicidal collapse, which brings them back down on us heavier than ever.
+A body without organs that shatters all the strata, turns immediately into a body of nothingness, pure self-destruction, whose only outcome is death.
+#+END_QUOTE
+
+Deleuze and Guattari note once more, on the subject of the Body without Organs:
+
+#+BEGIN_QUOTE
+The BwO is desire: it is that which one desires and by which one desires. And not only because it is the plane of consistency or the field of immanence of desire. Even when it falls into the void of too-sudden disqualification, or into the proliferation of a cancerous stratum, it is still desire. Desire stretches that far: desiring one’s own annihilation, or desiring the power to annihilate.
+#+END_QUOTE
+
+The Freudian death drive, capitalism's positive feedback loop of deterritorialization, Schopenhauer's Will. All these theories and concepts spread throughout the history of philosophy are all fundmentally getting at the same thing. Whether it is an intelligent but unconscious god or simply a runaway machine (in Deleuzian terms), that is for the reader to decide. Land seems to believe both, often describing capitalism the same way one would describe Cthulu, as well as referring to it as artificial intelligence. However true either of these interpretations are, there is one possible answer to the question posed by Deleuze on the "revolutionary path".
+
+If capitalism functions in a similar manner to the death drive, of production for production towards some kind of end goal, that being death, there is an out in a manner of speaking. Referring back to the passages from /A Thousand Plateaus/, Deleuze and Guattari seemed to believe that on the breaking of the barrier of capital the capitalist socius would become the BwO, a plane with unrestricted flows of desire. This would seem to grant insight into Land's claim that: "the death of capital is less a prophecy than a machine part", i.e the advanced capitalist machine only works by breaking and fitting, by producing for productions sake all speeding towards some kind of "death". What the complete death of capital will look like exactly, nobody can know for certain. It would be unwise to make any sort of perscriptive prophecy regarding its fate. Overcoming the barrier of capital would mean the shattering of what Schopenhauer calls Will, in a manner similar to the Death of God found in Nietzsche.
+
+The hyper-death of capital that occurs following the implosion of an unchained positive feedback loop (once again in the pattern set by the death drive), if D+G or Land are to be taken seriously, will see a reactive explosion of flourishing on earth, unseen before in history.
