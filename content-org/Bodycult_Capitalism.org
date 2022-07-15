@@ -1,5 +1,5 @@
 #+TITLE: Sports and the Cult of the Body Under Capitalism
-#+DATE: Jul 15, 2022
+#+DATE: 2022-07-15
 #+HUGO_BASE_DIR: ../
 #+AUTHOR:
 

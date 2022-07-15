@@ -1,5 +1,6 @@
 +++
 title = "Sports and the Cult of the Body Under Capitalism"
+date = 2022-07-15
 draft = false
 +++
 
